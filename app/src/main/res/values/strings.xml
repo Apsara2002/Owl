@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">owl</string>
+    <string name="title_activity_high_score" translatable="false">HighScore</string>
+    <string name="play" translatable="false">Play</string>
+</resources>
